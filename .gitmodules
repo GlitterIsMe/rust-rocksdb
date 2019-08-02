@@ -5,4 +5,4 @@
 [submodule "titan"]
 	path = librocksdb_sys/libtitan_sys/titan
 	url = https://github.com/GlitterIsMe/titan.git
-	branch = check_gc
+	branch = master
